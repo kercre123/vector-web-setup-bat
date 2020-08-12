@@ -1,1 +1,1 @@
-"# vector-web-setup-bat" 
+# vector-web-setup-bat
