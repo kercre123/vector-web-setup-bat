@@ -5,7 +5,7 @@ This git contains resources to get the Vector Web Setup running reliably. This r
 ## Prerequisites
 
 Google Chrome
-PC with BLE (Bluetooth)
+PC/Mac with BLE (Bluetooth)
 
 ## Windows
 
@@ -13,7 +13,7 @@ Clone this git `git clone https://github.com/kercre123/vector-web-setup-bat.git`
 
 ## macOS
 
-Open a terminal and run `open -a /Applications/Google\ Chrome .app --args --app=https://wire.my.to:444 --disable-web-security --enable-experimental-web-platform-features --user-data-dir=/tmp/VectorSetup`. If it asks to be default browser, uncheck it and press X.
+Open a terminal and run `open -a /Applications/Google\ Chrome.app --args --app=https://wire.my.to:444 --disable-web-security --enable-experimental-web-platform-features --user-data-dir=/tmp/VectorSetup`. If it asks to be default browser, uncheck it and press X.
 
 ## Linux
 
