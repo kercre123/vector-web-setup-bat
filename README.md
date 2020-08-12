@@ -1,6 +1,6 @@
 # vector-web-setup-bat
 
-This git contains resources to get the Vector Web Setup running reliably. This runs Google Chrome with the correct args
+This git contains resources to get the Vector Web Setup running reliably. This runs Google Chrome with the correct args for this tool to work entirely.
 
 ## Prerequisites
 
