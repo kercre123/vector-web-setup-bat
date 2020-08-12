@@ -5,6 +5,7 @@ This git contains resources to get the Vector Web Setup running reliably. This r
 ## Prerequisites
 
 Google Chrome
+
 PC/Mac with BLE (Bluetooth)
 
 ## Windows
